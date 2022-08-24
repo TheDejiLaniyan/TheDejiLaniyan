@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDejiLaniyan
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in eb development
 - 🌱 I’m currently learning the basics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
